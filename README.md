@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**serdarcolak/serdarcolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I am currently working as a BPM specialist.<br><br>🌱 I'm currently learning C#, .Net Core, MVC and more!<br><br>📝 I use SQL, TSQL actively.<br><br>📫 How to reach me serdarcolak90@gmail.com
 
