@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a BPM specialist.<br><br>🌱 I'm currently learning Java Spring Boot<br><br>📝 I use SQL, TSQL actively.<br><br>📫 How to reach me serdarcolak90@gmail.com
+🔭 I am currently working as a BPM specialist.<br><br>🌱 I'm currently learning C# .NET <br><br>📝 I use SQL, TSQL actively.<br><br>📫 How to reach me serdarcolak90@gmail.com
 
 
 ## 🌐 Socials:
